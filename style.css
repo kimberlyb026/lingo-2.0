@@ -1,0 +1,58 @@
+body {
+    background-image: linear-gradient(blue, aqua, lightblue);
+    height: 730px;
+  }
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+
+
+button {
+  margin: auto;
+  background: white;
+  border: 1px solid black;
+  padding: 10px 15px;
+  font-size: 10px;
+}
+
+
+
+
+
+#container {
+  margin: auto;
+  width: 23em;
+}
+
+
+
+.default {
+  background: #ffff99;
+}
+
+.square {
+  vertical-align:top;
+  margin-top: 4px;
+  border: 1px black solid;
+  border-radius: 5px;
+  display: inline-block;
+  height: 1.25em;
+  width: 1.25em;
+  text-align: center;
+  font-size: 3.5em;
+  font-family: 'Lato', sans-serif;
+  background-color: #DB7093;
+}
+h1{
+  
+    font-family: 'Lemonada', cursive;
+}
+
+p{
+    font-family: 'Lemonada', cursive;
+  font-size: 20px;
+}
